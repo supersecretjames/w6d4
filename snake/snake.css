@@ -1,0 +1,34 @@
+body {
+  background-color: #eee;
+  font-family: helvetica;
+  color:#ff3d84;
+}
+
+.square {
+  float:left;
+  height: 7px;
+  width: 7px;
+}
+
+.empty {
+  background-color:#2fce03;
+}
+
+.row {
+  margin: 0;
+}
+.clear {
+  clear:both;
+}
+
+.snake-bod1 {
+  background-color: #ff3d84;
+}
+
+.snake-bod2 {
+  background-color: #ffbf35;
+}
+
+.apple {
+  background-color: #fdf23e;
+}
